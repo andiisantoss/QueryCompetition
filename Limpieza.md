@@ -68,6 +68,10 @@ cualquiera de las dos plataformas, MySQL o Mongo DB.
 
 El archivo después de la limpieza se observa de la siguiente manera:
 
+![25](https://github.com/andiisantoss/QueryCompetition/assets/147234584/79198bd6-a10d-490b-965e-95c008dd25d0)
+
+Archivo:
+
 [covid_limpia_buena.xlsx](https://github.com/andiisantoss/QueryCompetition/files/14392272/covid_limpia_buena.xlsx)
 
 
