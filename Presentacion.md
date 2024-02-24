@@ -1,4 +1,4 @@
-# Base de datos COVID 19 - Sesión 9  ⚙
+# Query Competition - Sesión 9  ⚙
 
 En este repositorio se intenta presentar una serie de resultados, derivados del aprendizaje obtenido en el diplomado de ciencia de datos hasta ahora.
 
