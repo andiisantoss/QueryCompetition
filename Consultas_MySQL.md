@@ -90,3 +90,4 @@ consultas usadas en MySQL.
 
 [Promedio.csv](https://github.com/andiisantoss/QueryCompetition/files/14392461/Promedio.csv)
 
+
