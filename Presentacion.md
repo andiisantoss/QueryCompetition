@@ -8,5 +8,5 @@ Conforme avanza el seguimiento del repositorio voy actualizando los archivos uti
 
 Espero sea de su agrado, y que la información aquí descubierta resulte de utilidad.
 
-                ![22](https://github.com/andiisantoss/QueryCompetition/assets/147234584/6f676a92-715e-41d5-9cf8-ff7e86e463af)
+![22](https://github.com/andiisantoss/QueryCompetition/assets/147234584/6f676a92-715e-41d5-9cf8-ff7e86e463af)
 
