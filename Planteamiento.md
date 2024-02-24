@@ -1,4 +1,4 @@
-#PLANTEAMIENTO Y OBJETIVO ✔
+PLANTEAMIENTO Y OBJETIVO ✔
 
 El proyecto actual consiste en elegir una de las tres bases de datos propuestas por el profesor, cuyos temas eran referentes a:
 Contagios por Influenza H1N1, Ubicación de tiendas Starbucks y Contagios por COVID 19 (Siendo esta última la seleccionada), 
