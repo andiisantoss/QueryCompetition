@@ -1,5 +1,8 @@
 CONSULTAS EN MONGODB COMPASS (DESARROLLO 1/2) 🧿
 
+
+[SARS-COV-2.COVID19(1).csv](https://github.com/andiisantoss/QueryCompetition/files/14392466/SARS-COV-2.COVID19.1.csv)
+
 Una vez teniendo el archivo de excel limpio, se debe importar en la plataforma de consultas, en este caso se usa 
 MongoDB Compass para darle solución a la problemática inicial. Es importante comentar que el archivo de Excel 
 debe exportarse con formato CSV, para que pueda ser admitido por Mongo.
