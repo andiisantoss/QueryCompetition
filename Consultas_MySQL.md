@@ -1,4 +1,4 @@
-[Promedio.csv](https://github.com/andiisantoss/QueryCompetition/files/14392460/Promedio.csv)[Promedio.csv](https://github.com/andiisantoss/QueryCompetition/files/14392456/Promedio.csv)[Promedio.csv](https://github.com/andiisantoss/QueryCompetition/files/14392455/Promedio.csv)CONSULTAS EN MYSQL WORKBENCH 🔎
+CONSULTAS EN MYSQL WORKBENCH 🔎
 
 El archivo que anteriormente se exporta desde el MongoDB, con el filtro aplicado para agrupar,
 ayuda bastante a simplificar los datos y tratarlos con más facilidad en MySQL. 
