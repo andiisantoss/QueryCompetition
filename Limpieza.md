@@ -66,3 +66,10 @@ unificarla al mismo campo.
 Una vez realizado este procedimiento de limpieza, se puede notar que existe ahora una base de datos lista para trabajarse en 
 cualquiera de las dos plataformas, MySQL o Mongo DB.
 
+El archivo después de la limpieza se observa de la siguiente manera:
+
+[covid_limpia_buena.xlsx](https://github.com/andiisantoss/QueryCompetition/files/14392272/covid_limpia_buena.xlsx)
+
+
+
+
