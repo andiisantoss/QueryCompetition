@@ -18,14 +18,24 @@ Para comenzar, se plantean algunas preguntas que se consideran interesantes y qu
 El objetivo es resolver estas preguntas utilizando las herramientas necesarias de los Software MongoDB Compass y MySQL
 aplicando el conocimiento correspondiente.💻
 
-1.- ¿Cuál fue la fecha de inicio del registro de contagios en esta base de datos?/n
+1.- ¿Cuál fue la fecha de inicio del registro de contagios en esta base de datos?
+
+2.- ¿Cuáles son las 5 regiones con mayor número de contagios durante el tiempo que se registró en la base?
+
 3.- ¿Cuáles son las 5 regiones con mayor número de muertes durante el tiempo que se registró en la base?
+
 4.- ¿Cuáles son las 5 regiones con mayor número de recuperaciones durante el tiempo que se registró en la base?
+
 5.- En México, ¿Cuál fue el máximo número de contagios? según la base de datos.
+
 6.- ¿Cuántas regiones se consideran en la base de datos?
+
 7.- ¿Cuál fue el número total de contagios registrados?
+
 8.- ¿Cuál fue el promedio de contagios?
+
 9.- ¿Qué porcentaje de muertes con respecto a los contagios hubo?
+
 10.- ¿Qué porcentaje de recuperaciones con respecto a los contagios hubo?
 
 
