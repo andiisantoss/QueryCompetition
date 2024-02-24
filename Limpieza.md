@@ -3,6 +3,9 @@ LIMPIEZA DE DATOS 🩹
 El archivo inicial de COVID 19 contiene una base con datos difíciles de trabajar, con falta de coherencia, con espacios de más,
 datos faltantes, y esto complica el posterior análisis si se pretende exportar a otra plataforma donde se pueda consultar información.
 
+![26](https://github.com/andiisantoss/QueryCompetition/assets/147234584/a16d775a-814a-4a5f-992a-85fb577dc62a)
+
+
 Para poder evitar fallas debido a la corrupción en los datos, es necesario limpiar la base, para lo cual se usa Excel, ya que su 
 interfaz es relativamente fácil de utilizar y tiene fórmulas muy prácticas que pueden ser de ayuda para el propósito de la limpieza.
 
