@@ -2,7 +2,7 @@
 
 En este repositorio se intenta presentar una serie de resultados, derivados del aprendizaje obtenido en el diplomado de ciencia de datos hasta ahora.
 
-A continuación presento el procedimiento que seguí para llegar a ciertas conclusiones mediante consultas emitidas en MySQL Workbench y MongoDB Compass, así como archivos que fueron de utilidad para la realización de este ejercicio.
+A continuación se presenta el procedimiento seguido para llegar a ciertas conclusiones mediante consultas emitidas en MySQL Workbench y MongoDB Compass, así como archivos que fueron de utilidad para la realización de este ejercicio.
 
 Conforme avanza el seguimiento del repositorio voy actualizando los archivos utilizados para mostrar los pasos que se realizaron.
 
